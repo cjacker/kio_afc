@@ -4,7 +4,7 @@ libimobiledevice based AFC KIO Protocol for KF5.
 based on the greate work from Jonathan Beck.
 
 # Requires:
-1, libimobiledevice >= 1.1.5(you should also have usbmuxd an related libraries installed)
+1, libimobiledevice >= 1.1.5(you should also have usbmuxd and related libraries installed)
 
 2, KF5 KIO
 
