@@ -1,0 +1,4 @@
+* Thu Jul 23 2015 Cjacker <jianzhong.huang@i-soft.com.cn>
+- port to latest libimobiledevice(1.2.0), and KF5.
+- clean some codes.
+- add afc-network.desktop to remote view.

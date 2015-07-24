@@ -1,0 +1,15 @@
+[Protocol]
+exec=kf5/kio/afc
+protocol=afc
+input=none
+output=filesystem
+listing=Access,Size,Date,Name,Type
+reading=true
+writing=true
+makedir=true
+deleting=true
+linking=true
+moving=true
+opening=true
+deleteRecursive=true
+maxInstances=50
